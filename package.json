@@ -1,0 +1,48 @@
+{
+  "name": "AssetManagement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/nuraltech/assetmanagement/AssetManagementBackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/nuraltech/assetmanagement/AssetManagementBackend/issues"
+  },
+  "homepage": "https://gitlab.com/nuraltech/assetmanagement/AssetManagementBackend#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "canvas": "^2.11.2",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "csv-parser": "^3.0.0",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fast-csv": "^4.3.6",
+    "joi": "^17.9.1",
+    "jsbarcode": "^3.11.5",
+    "json2csv": "^6.0.0-alpha.2",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.4.4", 
+    "multer": "^1.4.5-lts.1",
+    "node-cron": "^3.0.2",
+    "node-pushnotifications": "^2.1.0",
+    "nodemailer": "^6.9.5",
+    "qrcode": "^1.5.3",
+    "socket.io": "^4.7.2",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}

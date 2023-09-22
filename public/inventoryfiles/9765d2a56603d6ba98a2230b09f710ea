@@ -1,0 +1,63 @@
+Schdeule Reports
+Manager Users->done
+Role & permissions-done
+Request Types
+User Group-done
+
+
+
+
+catalog
+System Generate Code
+Manage WOrkflow
+
+
+Adavaced Settings
+Email Logs
+Change logs
+Barcode Scanned
+
+Manage Users
+Roles ANd Permission
+Schdeule Report
+System Generate Code
+Manage Workflow
+
+
+ parentLocation:req.body.parentLocation,
+                location:req.body.location,
+                locationCode:req.body.locationCode,
+                locationDescription:req.body.locationDescription,
+                defaultCoordinates:req.body.defaultCoordinates,
+                inventoryLocation: req.body.inventoryLocation,
+                description: req.body.description,
+                createdBy:req.body.createdBy
+                
+                
+               org: yopmail6
+               email: rajeshdalai@yopmail.com
+                pass:Escale@123
+                
+                
+                
+                report              filter        emailto           email frequency   day
+                                                  assetLocation
+                activitytype
+                
+                tickettype
+                userGroup                                  send emails to 
+                                                  data range
+                                                  
+                                                  
+                                                  
+                                                  
+Import Data->upload Asset-> files we dont what type of file we need to upload
+
+
+System Logs
+
+Email Logs: What type of logs we add and How to send email Discuss
+change logs: what type of logs we can change and refernce no
+Barcode Scanned -> how to scan
+	
+                                                  
