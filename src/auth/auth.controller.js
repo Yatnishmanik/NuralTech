@@ -5,7 +5,7 @@ const User= require('./auth.model');
 const JwtService = require('../service/jwt_service');
 const CustomErrorHandler = require('../service/errorHandler')
 
-const controller= {
+const controller= { 
 
 //-------------------------- Register ----------------------------------//
 
