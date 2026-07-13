@@ -6,7 +6,7 @@ pipeline {
         // Define Node.js tool configuration
         nodejs "mernstack"
     }
-
+ 
     environment {
         MONGODB_URI = credentials('mongodb-uri')
         TOKEN_KEY = credentials('token-key')
